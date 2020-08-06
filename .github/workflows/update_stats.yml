@@ -1,12 +1,9 @@
-name: Waka Readme
+name: Update Readme Stats
 
 on:
-  push:
-    branches: [master]
-# on:
-#   schedule:
-#     # Runs at 12am EST
-#     - cron: "0 4 * * *"
+  schedule:
+    # Runs at 12am EST
+    - cron: "0 4 * * *"
 
 jobs:
   update-readme:
@@ -19,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_COMMIT: "True"
+          SHOW_COMMIT: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
