@@ -1,22 +1,19 @@
-<h2 align="center">👋 Hello!! I'm Nikhil Gorantla.Aka Ops Guy</h2>
+<h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2>
 
+<p align="center">
+  <a href="https://www.google.com">Website</a> •
+  <a href="https://www.google.com">Resume</a> • 
+  <a href="https://www.google.com">Projects</a>
+</p>
+
+---
+
+- 🔭 I’m currently working on something cool
 <!--START_SECTION:waka-->
+- 🙏 Thank you for checking my profile ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+- 👨‍💻 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-7.6%20million%20Lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-7.6%20million%20Lines%20of%20code-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 383 Contributions in year 2020
->
-> 📦 Used 407 Bytes in GitHub's Storage
->
-> 🚫 Not opted to Hire
->
-> 📜 116 Public Repositories
->
-> 🔑 3 Owned Private Repositories
+---
 
 **I'm an early 🐤**
 
@@ -27,6 +24,8 @@
 🌙 Night      98 commits     ██████░░░░░░░░░░░░░░░░░░░   26.85%
 
 ```
+
+---
 
 📅 **I'm Most Productive on Mondays**
 
@@ -40,6 +39,8 @@ Saturday     2 commits      ░░░░░░░░░░░░░░░░░�
 Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.56%
 
 ```
+
+---
 
 📊 **This week I spent my time on**
 
@@ -61,6 +62,8 @@ Fish                     0 secs              ░░░░░░░░░░░�
 Mac                      4 hrs 25 mins       █████████████████████████   100.0%
 
 ```
+
+---
 
 **I mostly code in Shell**
 
