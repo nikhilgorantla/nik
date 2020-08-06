@@ -1,6 +1,7 @@
-![Hey there, I'm Nikhil. I'm a Ops-guy!!](https://github.com/nikhilgorantla/nikhilgorantla/raw/develop/into.gif)
-
-<h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2>
+<p align="center">
+  <img src="https://github.com/nikhilgorantla/nikhilgorantla/raw/develop/into.gif" />
+</p>
+<!-- <h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2> -->
 
 <p align="center">
   <a href="https://www.google.com">Website</a> •
