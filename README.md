@@ -1,4 +1,4 @@
-![Hey there, I'm Nikhil. I'm a Ops-guy!!](https://github.com/nikhilgorantla/nikhilgorantla/develop/assets/into.gif)
+![Hey there, I'm Nikhil. I'm a Ops-guy!!](https://github.com/nikhilgorantla/nikhilgorantla/raw/develop/into.gif)
 
 <h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2>
 
