@@ -1,3 +1,5 @@
+![Hey there, I'm Nikhil. I'm a Ops-guy!!](https://github.com/nikhilgorantla/nikhilgorantla/tree/develop)
+
 <h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2>
 
 <p align="center">
