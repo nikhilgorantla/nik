@@ -1,15 +1,18 @@
-<p align="center">
+<p align="center" >
   <img src="https://github.com/nikhilgorantla/nikhilgorantla/raw/develop/into.gif" />
 </p>
 <!-- <h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2> -->
 
 <p align="center">
-  <a href="https://www.google.com">Website</a> •
-  <a href="https://www.google.com">Resume</a> • 
-  <a href="https://www.google.com">Projects</a>
+  <a href="https://bit.ly/33SNo6o">Linkedin</a> •
+  <a href="http://nikhilgorantla.me/">Website</a> •
+  <a href="http://bit.ly/2CLaxdy">Resume</a> • 
+  <a href="http://bit.ly/2yDmcZ4">Projects</a> 
 </p>
 
 ---
+
+## \$whoami
 
 - 🔭 I’m currently working on something cool
 <!--START_SECTION:waka-->
@@ -78,4 +81,9 @@ HTML         1 repos        ███░░░░░░░░░░░░░░�
 
 ```
 
-<!--END_SECTION:waka-->
+## <!--END_SECTION:waka-->
+
+[website]: http://nikhilgorantla.me/
+[linkedin]: https://bit.ly/33SNo6o
+[resume]: http://bit.ly/2CLaxdy
+[projects]: http://bit.ly/2yDmcZ4
