@@ -9,6 +9,17 @@
   <a href="http://bit.ly/2CLaxdy">Resume</a> • 
   <a href="http://bit.ly/2yDmcZ4">Projects</a> 
 </p>
+<br />
+
+---
+
+### Languages and Tools:
+
+<p align="center" >
+  <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png" />
+</p>
+
+<br />
 
 ---
 
@@ -18,14 +29,6 @@
 <!--START_SECTION:waka-->
 - 🙏 Thank you for checking my profile ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 - 👨‍💻 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-7.6%20million%20Lines%20of%20code-blue)
-
----
-
-### Languages and Tools:
-
-<p align="center" >
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
 
 ---
 
