@@ -11,13 +11,14 @@
 </p>
 <br />
 
----
+---––
 
-### Languages and Tools:
+### My Day to Day Tool Chest:
 
 <p align="center" >
   <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png" />   
   <img align="left" alt="AWS" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
+  <img align="left" alt="AWS" src="https://img.icons8.com/color/48/000000/openvpn.png" />
 
 </p>
 
@@ -95,7 +96,7 @@ HTML         1 repos        ███░░░░░░░░░░░░░░�
 
 ```
 
-## <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [website]: http://nikhilgorantla.me/
 [linkedin]: https://bit.ly/33SNo6o
