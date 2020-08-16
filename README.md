@@ -38,9 +38,6 @@
   <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/bash.png" />
   <img align="left" alt="groovy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/groovy.png" />
   <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" /> &nbsp;
-  <img align="left" alt="kafka" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kafka.png" />  
-  <img align="left" alt="kibana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kibana.png" />
-  <img align="left" alt="fluetd" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/fluetd.jpg" />
   <img align="left" alt="openfaas" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/openfaas.png" />
   <img align="left" alt="sonarcloud" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/sonarcloud.png" />
   <img align="left" alt="aqua" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/aqua.png" />
@@ -54,6 +51,9 @@
   <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/git.png" />
   <img align="left" alt="newrelic" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/newrelic.png" />
   <img align="left" alt="spinnaker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/spinnaker.png" />
+  <img align="left" alt="kafka" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kafka.png" />  
+  <img align="left" alt="kibana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kibana.png" />
+  <img align="left" alt="fluetd" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/fluetd.jpg" />
   <img align="left" alt="envoy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/envoy.png" />
   <img align="left" alt="yaml" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/yaml.png" />
   <img align="left" alt="postman" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/postman.png" />
