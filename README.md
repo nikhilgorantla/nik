@@ -28,6 +28,9 @@
   <img align="left" alt="elasticsearch" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/elasticsearch.png" />
   <img align="left" alt="Jenkins" width="23Ppx" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/Jenkins.png" />
   <img align="left" alt="google" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/google.png" />
+  <img align="left" alt="consul" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/consul.png" />
+  <img align="left" alt="rancher" width="40px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/rancher.png" />
+  <img align="left" alt="artifactory" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/artifactory.png" />
 </p>
 
 <br />
