@@ -33,7 +33,6 @@
   <img align="left" alt="artifactory" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/artifactory.png" />
   <img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/terraform.png" />
   <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/redis.png" />
-
 </p>
 <br />
 
