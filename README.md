@@ -25,6 +25,9 @@
   <img align="left" alt="k8s" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/k8s.png" />
   <img align="left" alt="prometheus" width="31px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/prometheus.png" />
   <img align="left" alt="grafana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/grafana.png" />
+  <img align="left" alt="elasticsearch" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/elasticsearch.png" />
+  <img align="left" alt="Jenkins" width="23Ppx" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/Jenkins.png" />
+  <img align="left" alt="google" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/google.png" />
 </p>
 
 <br />
