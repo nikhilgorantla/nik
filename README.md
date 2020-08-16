@@ -35,7 +35,7 @@
   <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/redis.png" />
 </p>
 <br />
--
+&nbsp;
 <p align="center" >
   <img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" /> 
   <img align="left" alt="dotnetcore" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/dotnetcore.png" />
