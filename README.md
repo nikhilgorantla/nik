@@ -41,8 +41,8 @@
   <img align="left" alt="docker" width="30px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" /> 
   <img align="left" alt="dotnetcore" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/dotnetcore.png" />
   <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/python.png" />
-  <img align="left" alt="bash" width="35px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/bash.png" />
-  <img align="left" alt="groovy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/groovy.png" />
+  <img align="left" alt="bash" width="46px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/bash.png" />
+  <img align="left" alt="groovy" width="46px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/groovy.png" />
   <img align="left" alt="sonarcloud" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/sonarcloud.png" />
   <img align="left" alt="aqua" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/aqua.png" />
   <img align="left" alt="datadog" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/datadog.png" />
