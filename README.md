@@ -23,7 +23,7 @@
   <img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/mysql.png" />
   <img align="left" alt="eks" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/eks.png" />
   <img align="left" alt="k8s" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/k8s.png" />
-  <img align="left" alt="prometheus" width="29px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/prometheus.png" />
+  <img align="left" alt="prometheus" width="31px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/prometheus.png" />
   <img align="left" alt="grafana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/grafana.png" />
 </p>
 
