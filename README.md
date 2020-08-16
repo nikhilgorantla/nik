@@ -48,7 +48,7 @@
   <img align="left" alt="datadog" width="36px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/datadog.png" />
   <img align="left" alt="kiali" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kiali.png" />
   <img align="left" alt="efk" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/efk.png" />
-  <img align="left" alt="SumoLogic" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/SumoLogic.png" />
+  <img align="left" alt="SumoLogic" width="46px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/SumoLogic.png" />
   <img align="left" alt="victorops" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/victorops.png" />
 </p>
 
