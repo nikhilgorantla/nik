@@ -11,16 +11,16 @@
 </p>
 <br />
 
----––
+---
 
 ### My Day to Day Tool Chest:
 
 <p align="center" >
-  <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/fluent/30/000000/visual-studio-code-2019.png" />   
-  <img align="left" alt="AWS" src="https://img.icons8.com/color/30/000000/amazon-web-services.png" />
-  <img align="left" alt="AWS" src="https://img.icons8.com/color/30/000000/openvpn.png" />
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/vscode.png" />
-
+  <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/vim.png" />
+  <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/openvpn.png" />
+  <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/aws.png" />
+  <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/mysql.png" />
 </p>
 
 <br />
