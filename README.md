@@ -50,8 +50,8 @@
   <img align="left" alt="efk" width="36px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/efk.jpg" />
   <img align="left" alt="SumoLogic" width="46px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/SumoLogic.png" />
   <img align="left" alt="victorops" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/victorops.png" />
-  <img align="left" alt="keyclock" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/keyclock.png" />
-  <img align="left" alt="jmeter" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/jmeter.png" />
+  <img align="left" alt="keyclock" width="36px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/keyclock.png" />
+  <img align="left" alt="jmeter" width="36px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/jmeter.png" />
   <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/git.png" />
 </p>
 
