@@ -34,7 +34,6 @@
   <img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/terraform.png" />
   <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/redis.png" />  
   <br/>
-
   <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" />
   <img align="left" alt="dotnetcore" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/dotnetcore.png" />
   <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/python.png" />
