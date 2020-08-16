@@ -32,8 +32,8 @@
   <img align="left" alt="rancher" width="40px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/rancher.png" />
   <img align="left" alt="artifactory" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/artifactory.png" />
   <img align="left" alt="terraform" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/terraform.png" />
-  <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/redis.png" />
-  ---
+  <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/redis.png" /> \
+  <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" />
   <img align="left" alt="dotnetcore" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/dotnetcore.png" />
   <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/python.png" />
 </p>
