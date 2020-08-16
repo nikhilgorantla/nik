@@ -54,7 +54,20 @@
   <img align="left" alt="jmeter" width="36px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/jmeter.png" />
   <img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/git.png" />
 </p>
-
+<br />
+&nbsp;
+<p align="center" >
+  <img align="left" alt="newrelic" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/newrelic.png" />
+  <img align="left" alt="spinnaker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/spinnaker.png" />
+  <img align="left" alt="kafka" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kafka.png" />  
+  <img align="left" alt="kibana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kibana.png" />
+  <img align="left" alt="fluetd" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/fluetd.jpg" />
+  <img align="left" alt="envoy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/envoy.png" />
+  <img align="left" alt="yaml" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/yaml.png" />
+  <img align="left" alt="postman" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/postman.png" />
+  <img align="left" alt="helm" width="26px" src="https://helm.sh/img/helm.svg" />
+  <img align="left" alt="zipkin" width="26px" src="https://opencensus.io/img/partners/zipkin_logo.svg" />
+</p>
 <br />
 <br />
 <br />
