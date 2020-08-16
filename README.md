@@ -38,6 +38,8 @@
   <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/bash.png" />
   <img align="left" alt="groovy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/groovy.png" />
   <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" />
+  <br />
+  
   <img align="left" alt="kafka" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kafka.png" />
   <img align="left" alt="kibana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kibana.png" />
   <img align="left" alt="fluetd" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/fluetd.jpg" />
