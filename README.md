@@ -15,7 +15,8 @@
 
 ### My Day to Day Tool Chest:
 
-<p align="center" >
+<!-- <p align="center" > -->
+<p>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/vscode.png" />
   <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/vim.png" />
   <img align="left" alt="openvpn" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/openvpn.png" />
