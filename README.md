@@ -57,7 +57,7 @@
 <br />
 &nbsp;
 <p align="center" >
-  <img align="left" alt="newrelic" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/newrelic.png" />
+  <img align="left" alt="newrelic" width="36px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/newrelic.png" />
   <img align="left" alt="spinnaker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/spinnaker.png" />
   <img align="left" alt="kafka" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kafka.png" />  
   <img align="left" alt="kibana" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/kibana.png" />
