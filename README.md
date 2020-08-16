@@ -57,10 +57,8 @@
   <img align="left" alt="envoy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/envoy.png" />
   <img align="left" alt="yaml" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/yaml.png" />
   <img align="left" alt="postman" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/postman.png" />
-
   <img align="left" alt="helm" width="26px" src="https://helm.sh/img/helm.svg" />
   <img align="left" alt="zipkin" width="26px" src="https://opencensus.io/img/partners/zipkin_logo.svg" />
-
 </p>
 
 <br />
