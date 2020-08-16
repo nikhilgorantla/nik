@@ -35,7 +35,7 @@
   <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/redis.png" />
   <img align="left" alt="dotnetcore" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/dotnetcore.png" />
   <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/python.png" />
-  <img align="left" alt="bash" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/bash.png" />
+  <img align="left" alt="bash" width="35px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/bash.png" />
   <img align="left" alt="groovy" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/groovy.png" />
   <img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/docker.png" /> &nbsp;
   <img align="left" alt="openfaas" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/openfaas.png" />
