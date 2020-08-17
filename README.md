@@ -85,65 +85,44 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: I'm a huge fan of Space
 <!--START_SECTION:waka-->
-- 🙏 Thank you for checking my profile ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
-- 👨‍💻 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-7.6%20million%20Lines%20of%20code-blue)
----
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20Lines%20of%20code-blue)
 
-**I'm an early 🐤**
+**🐱 My Github Data** 
 
-```text
-🌞 Morning    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05% 
-🌆 Daytime    172 commits    ███████████░░░░░░░░░░░░░░   46.49% 
-🌃 Evening    85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-🌙 Night      98 commits     ██████░░░░░░░░░░░░░░░░░░░   26.49%
+> 🏆 416 Contributions in the year 2020
+ > 
+> 📦 11.1 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 119 Public repositories
+ > 
+> 🔑 3 Private repositories 
 
-```
-
----
-
-📅 **I'm Most Productive on Mondays**
-
-```text
-
-Monday       144 commits    █████████░░░░░░░░░░░░░░░░   38.92% 
-Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-Wednesday    41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
-Thursday     62 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-Friday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
-Saturday     4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08% 
-Sunday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
-
-
-```
-
----
-
-📊 **This week I spent my time on**
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/New_York
+⌚︎ Time zone: America/New_York
 
-💬 Languages: 
+💬 Programming Languages: 
 Terraform                1 hr 33 mins        █████████████░░░░░░░░░░░░   54.57% 
 Markdown                 52 mins             ███████░░░░░░░░░░░░░░░░░░   30.65% 
 Other                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72% 
 YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  2 hrs 44 mins       ████████████████████████░   95.53% 
 Fish                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
 
-💻 Operating Systems: 
+💻 Operating System: 
 Mac                      2 hrs 51 mins       █████████████████████████   100.0%
-
 
 ```
 
----
-
-**I mostly code in Shell**
+**I Mostly Code in Shell** 
 
 ```text
 Shell                    3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
@@ -152,6 +131,8 @@ Groovy                   1 repos             ███░░░░░░░░�
 HTML                     1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
 
