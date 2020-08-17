@@ -85,9 +85,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡️ Fun fact: I'm a huge fan of Space
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20Lines%20of%20code-blue)
+- 🙏 Thank you for checking my profile ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
+- 👨‍💻![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20Lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
