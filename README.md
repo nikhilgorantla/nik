@@ -1,5 +1,5 @@
 <p align="center" >
-  <img width="100%" height="100px" src="https://github.com/nikhilgorantla/nikhilgorantla/raw/develop/into.gif" />
+  <img width="100%" height="40%" src="https://github.com/nikhilgorantla/nikhilgorantla/raw/develop/into.gif" />
 </p>
 <!-- <h2 align="center">👋 Hello!! I'm Nikhil Gorantla!! aka Ops-Guy</h2> -->
 
