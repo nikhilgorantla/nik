@@ -4,6 +4,8 @@ on:
   schedule:
     # Runs at 12am EST
     - cron: "0 4 * * *"
+  push:
+    branches: [master]
 
 jobs:
   update-readme:
