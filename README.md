@@ -76,7 +76,14 @@
 
 ## \$whoami
 
+- 😄 Pronouns: ... He/Him
 - 🔭 I’m currently working on something cool
+- 📖 I’m currently learning ... **Heterogeneous Service-Mesh Management**
+- ⚙️ I use daily: `.yaml`, `.helm`, `.tf`, `.python`
+- 🌍 I'm mostly active within the **K8s Community**
+- 🌱 Learning all about **Open Source**
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡️ Fun fact: I'm a huge fan of Space
 <!--START_SECTION:waka-->
 - 🙏 Thank you for checking my profile ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 - 👨‍💻 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-7.6%20million%20Lines%20of%20code-blue)
