@@ -87,7 +87,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.6%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.6%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -112,10 +112,10 @@ Sunday       16 commits     █░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/New_York
+⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
 Markdown                 2 hrs 36 mins       ██████████████░░░░░░░░░░░   57.66% 
@@ -124,7 +124,7 @@ Other                    20 mins             ██░░░░░░░░░�
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15% 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
-🔥 Code Editors: 
+🔥 Editors: 
 VS Code                  4 hrs 20 mins       ████████████████████████░   96.03% 
 Fish                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.97%
 
