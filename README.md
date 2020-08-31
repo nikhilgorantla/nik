@@ -66,7 +66,9 @@
   <img align="left" alt="yaml" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/yaml.png" />
   <img align="left" alt="postman" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/postman.png" />
   <img align="left" alt="helm" width="26px" src="https://helm.sh/img/helm.svg" />
-  <img align="left" alt="zipkin" width="26px" src="https://opencensus.io/img/partners/zipkin_logo.svg" />
+  <img align="left" alt="zipkin" width="35px" src="https://opencensus.io/img/partners/zipkin_logo.svg" />
+  <img align="left" alt="portainer" width="40px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/portainer.png" />
+  <img align="left" alt="falco" width="35px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/falco.png" />
 </p>
 <br />
 <br />
