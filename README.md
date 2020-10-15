@@ -89,7 +89,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -140,7 +140,7 @@ Mac                      48 mins             ███████████�
 Shell                    3 repos             █████████░░░░░░░░░░░░░░░░   37.5% 
 Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
 HTML                     2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Groovy                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Groovy                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
