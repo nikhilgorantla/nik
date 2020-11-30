@@ -6,8 +6,8 @@
 <p align="center">
   <a href="https://bit.ly/33SNo6o">Linkedin</a> •
   <a href="http://nikhilgorantla.me/">Website</a> •
-  <a href="http://bit.ly/2CLaxdy">Resume</a> • 
-  <a href="http://bit.ly/2yDmcZ4">Projects</a> 
+  <a href="https://bit.ly/3lH6z9l">Resume</a> • 
+  <a href="https://bit.ly/2KMdbWh">Projects</a> 
 </p>
 <br />
 
