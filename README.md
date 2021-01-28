@@ -5,9 +5,9 @@
 
 <p align="center">
   <a href="https://bit.ly/33SNo6o">Linkedin</a> •
-  <a href="http://nikhilgorantla.me/">Website</a> •
-  <a href="https://bit.ly/3lH6z9l">Resume</a> • 
-  <a href="https://bit.ly/2KMdbWh">Projects</a> 
+  <a href="https://github.com/nikhilgorantla/">Website</a> •
+  <a href="https://github.com/nikhilgorantla">Resume</a> • 
+  <a href="https://github.com/nikhilgorantla">Projects</a> 
 </p>
 <br />
 
