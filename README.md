@@ -13,7 +13,7 @@
 
 ---
 
-## My Day to Day Tool Chest:
+## My Day to Day Tool Chest: 
 
 <p align="center" >
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/nikhilgorantla/nikhilgorantla/master/icons/vscode.png" />
